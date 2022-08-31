@@ -1,6 +1,6 @@
 {
   "name": "nuxtjs-sitemap-firebase-header",
-  "version": "2.4.0-fbh",
+  "version": "2.4.0-fbh2",
   "description": "Automatically generate or serve dynamic sitemap.xml for Nuxt projects",
   "keywords": [
     "nuxt",
